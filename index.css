@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    height: 100vh;
+    background-color: #1b1b1b;
+    background-size: cover;
+
+    color: #ffffff;
+    padding: 20px;
+}
+
+.font {
+    font-family: "Bree Serif";
+
+}
+
+.card1 {
+    background-color: #e6f6ff;
+    height: 32vh;
+    border-radius: 8px;
+}
+
+.font2 {
+    margin: 10px;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Bree Serif";
+
+}
+
+.col {
+    color: #9aa5b1;
+}
+
+.card2 {
+    margin-top: 10px;
+    height: 20vh;
+    background-color: #1b1b1b;
+
+}
+
+.image {
+    height: 140px;
+
+}
+
+.card2-sub {
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.card1-sub {
+
+    padding: 7px;
+
+
+
+}
+
+.image2 {
+    height: 300px;
+}
+
+.para {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 10px;
+    color: #e4e7eb;
+}
+
+.cutt {
+    height: 38px;
+    width: 100px;
+    border-width: 0px;
+    color: black;
+    border-radius: 10px;
+    background-color: #ffa500;
+    margin-right: 10px;
+}
+
+.detail {
+    text-align: center;
+    height: 55vh;
+    font-family: "Bree Serif";
+    margin: 10px;
+
+
+
+}
+
+.image3 {
+    height: 290px;
+}
+
+.para2 {
+    font-family: "Bree Serif";
+    font-size: 13px;
+
+    color: #e4e7eb;
+
+}
